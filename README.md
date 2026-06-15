@@ -1,55 +1,43 @@
-<!-- ====== Animated typing header ====== -->
 <div align="center">
-  <a href="https://vyatsun.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&height=55&lines=Hi+%F0%9F%91%8B+my+name+is+Vitalii+Yatsun;Founder+of+Arettox+LTD;I+build+projects+exclusively+with+AI" alt="Vitalii Yatsun" />
-  </a>
+
+<img src="https://raw.githubusercontent.com/Montivian/Montivian/main/banner.png" alt="Vitalii Yatsun — I build software at AI speed" width="100%" />
+
+# Hi, I'm Vitalii 👋
+
+### Founder &amp; CEO of [Arettox](https://github.com/Arettox) — I build software at AI speed.
+
+I run an **AI-augmented software studio** where small, senior teams ship products that used to
+need a whole agency — without lowering the bar on craft or security. My focus is building things
+we own end to end: our own SaaS ventures, the marketing software behind them, and the websites
+and apps we ship for clients.
+
+[![Arettox](https://img.shields.io/badge/Arettox-arettox.com-111315?style=flat-square)](https://arettox.com)
+[![Website](https://img.shields.io/badge/Website-vyatsun.com-111315?style=flat-square)](https://vyatsun.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vitalii%20Yatsun-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vyatsun)
+[![Based in](https://img.shields.io/badge/Based_in-Budapest,_Hungary-111315?style=flat-square)](https://vyatsun.com)
+
 </div>
 
-<!-- ====== Profile views ====== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Montivian&label=Profile%20views&color=2F81F7&style=flat" alt="Profile views" />
-</p>
+---
 
-<!-- ====== Intro ====== -->
-<p align="center">
-  🏠 Founder of <b>Arettox LTD</b> · working professionally in IT since <b>2020</b> (a hobby since my school days).<br/>
-  These days I build projects <b>exclusively using AI</b> 🤖
-</p>
+## What I'm building
 
-<br/>
+🚀 &nbsp; **[Arettox](https://github.com/Arettox)** — an AI-augmented software studio: our own SaaS ventures with creator partners, websites &amp; mobile apps for growing businesses, and marketing automation we own end to end.
 
-<!-- ====== Tech & tools ====== -->
-<h3 align="center">🛠️ Tools &amp; Tech I build with</h3>
+💻 &nbsp; Full-stack products on a modern edge stack — from idea to launch in days, not months.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=v0&logoColor=white" alt="v0" />
-</p>
+📈 &nbsp; Marketing-automation software: real-time competitor analytics, brand monitoring, and a self-running promotion engine.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-</p>
+## How I work
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
+**AI amplifies — it never replaces.** I pair human judgement, taste and accountability with AI's leverage — shipping more, faster, without lowering the bar. **Security is a baseline, not a feature.** And I like to **own the whole stack**: fewer dependencies, lower cost, software shaped exactly around the goal.
 
-<br/>
+## Let's connect
 
-<!-- ====== Connect ====== -->
-<h3 align="center">🌐 Connect with me</h3>
+Always up for a conversation about building software, SaaS, or AI-augmented teams.
 
-<p align="center">
-  <a href="https://vyatsun.com"><img src="https://img.shields.io/badge/Website-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://medium.com/@Vitalii-Yatsun"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://www.linkedin.com/in/vyatsun/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/vyatsun.me/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://t.me/iyatsun"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-</p>
+**[arettox.com](https://arettox.com)** &nbsp;·&nbsp; **[vyatsun.com](https://vyatsun.com)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/vyatsun)** &nbsp;·&nbsp; **hello@arettox.com**
+
+<div align="center">
+<sub>Building from Budapest 🇭🇺 — for Europe, North America, Singapore &amp; Africa</sub>
+</div>
